@@ -2,7 +2,7 @@
 
 ## Structure and purpose
 
-This code is designed to function as a customer banking system to allows users to calculate and tracker interest earned on both their savings accounts and CD accounts. They will be prompted for inputs and updates on their respective accounts.
+This code is designed to function as a customer banking system to allows users to calculate and track interest earned on both their savings accounts and CD accounts. They will be prompted for inputs and updates on their respective accounts.
 
 The structure is set up to "modularize" the code to make the main function easier to read by importing the necessary classes from the appropriate folders. Not including this README, there are three main parts to this challenge.
 
@@ -18,7 +18,7 @@ The structure is set up to "modularize" the code to make the main function easie
 
 2. Xpert Learning Assistance on the Bootcamp site was used to analyze snippets of code used in error checking, suggestions, and formatting questions. Specifically I asked if two variables could be assigned to the return values of a function at once, or if there needed to be two separate lines for each variable, respectively.
 
-3. Tutorial/Extra Class session on 3/9/24 questions and clarification on instructions were asked of instructior and TA to ensure that I was on the right path.
+3. Tutorial/Extra Class session on 3/9/24 questions and clarification on instructions were asked of instructor and TA to ensure that I was on the right path.
 
 ## Questions/Concerns for Grader
 
